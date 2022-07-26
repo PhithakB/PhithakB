@@ -1,58 +1,34 @@
-### Hi there 👋 Nice to see u.
+## Hello World!! 🤩 It was great to see you
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😎 My name is : Phithak Buathong
+- ⚡ Student id : 63364376
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 👨‍💻 I wanna be a Fullstack Developer
+- 📖 Branch of Knowledge that I like is Advanced Computer Programming , Computer Network
 
 ## Developer Tech
 
-### Frameworks 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>  
+#### Frameworks
+<div>
+&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/nodedotjs.svg" width=30px>&nbsp;
+</div>
 
-<a href="#">
-    <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:6px 4px">
-  </a>  
+#### Languages
+<div>
+&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/c.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/cplusplus.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/python.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/html5.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/javascript.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/typescript.svg" width=30px>&nbsp;
+</div>
 
-<a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
-  </a> 
+#### Tools
+<div>
+&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/visualstudiocode.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/pycharm.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/vmware.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/git.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/filezilla.svg" width=30px>&nbsp;
+</div>
 
-</p>
+## Contact Me
+<a href="https://github.com/PhithakB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/github.svg" width=50px>&nbsp;</a>
+<a href="https://gitlab.com/PhithakB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/gitlab.svg" width=50px>&nbsp;</a>
 
-### Languages 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a> 
+<br>
 
-<a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-</P>
-
-### Tools 
-<p align="left">
-<a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
-
- <a href="#">
-    <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-</P>
-
-## Devices / Manufacturers
-<p align="left">
-<a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-<a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
+| STATS | LANGUAGES |
+| :---: | :---: |
+| ![](https://github-readme-stats.vercel.app/api?username=PhithakB&show_icons=true&theme=vue) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhithakB&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) |
