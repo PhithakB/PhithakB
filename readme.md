@@ -15,7 +15,7 @@
 
 #### Languages
 <div>
-&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/c.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/cplusplus.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/python.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/html5.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/javascript.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/typescript.svg" width=30px>&nbsp;
+&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/c.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/cplusplus.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/python.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/html5.svg" width=30px>&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/javascript.svg" width=30px>&nbsp;
 </div>
 
 #### Tools
