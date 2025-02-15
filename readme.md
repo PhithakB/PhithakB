@@ -25,7 +25,7 @@
 
 ## Contact Me
 <a href="https://github.com/PhithakB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/github.svg" width=50px>&nbsp;</a>
-<a href="https://gitlab.com/PhithakB"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/gitlab.svg" width=50px>&nbsp;</a>
+<a href="https://gitlab.com/PhithakBuathong"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/gitlab.svg" width=50px>&nbsp;</a>
 
 <br>
 
