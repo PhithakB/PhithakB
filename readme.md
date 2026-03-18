@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## 📝 About Me
 - 💼 **Odoo Developer (ERP Systems)**
 - 🔥 Strong in **Backend Logic, Data Flow, Business Process**
 - 🧩 Experienced in building **real-world business solutions**
